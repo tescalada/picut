@@ -34,3 +34,7 @@ when in load-config mode it will display the available config files and names
 when in 
 
 this project is similar to https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/ so I will be starting from there for setup of the pi and initial python applications
+
+ideally we can use both the hid gadget and ethernet gadget so we can access the configs and debug the keyboard remotely
+https://www.isticktoit.net/?p=1383
+
