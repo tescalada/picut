@@ -33,3 +33,4 @@ if equipped with a display, it will display the name of the config file loaded a
 when in load-config mode it will display the available config files and names
 when in 
 
+this project is similar to https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/ so I will be starting from there for setup of the pi and initial python applications
